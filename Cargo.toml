@@ -1,2 +1,2 @@
 [workspace]
-members = ["a-borrowed", "b-borrowed-into-trait", "c-borrowed-cow"]
+members = [ "_examples-test","a-borrowed", "b-borrowed-into-trait", "c-borrowed-cow"]
