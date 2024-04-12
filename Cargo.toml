@@ -1,0 +1,2 @@
+[workspace]
+members = ["a-borrowed", "b-borrowed-into-trait", "c-borrowed-cow"]
