@@ -4,7 +4,7 @@ struct Person {
 
 impl Person {
     // This trait will can automatically convert a &str into a String. 
-    //If we already have a String, then no conversion happens.
+    // If we already have a String, then no conversion happens.
     fn new<S: Into<String>>(name: S) -> Person {
         Person { name: name.into() }
     }

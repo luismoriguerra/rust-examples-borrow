@@ -9,3 +9,7 @@ version = "0.1.0"
 [[package]]
 name = "b-borrowed-into-trait"
 version = "0.1.0"
+
+[[package]]
+name = "c-borrowed-cow"
+version = "0.1.0"
